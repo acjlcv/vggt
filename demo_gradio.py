@@ -362,7 +362,7 @@ with gr.Blocks(
         color: transparent !important;
         text-align: center !important;
     }
-    
+
     .example-log * {
         font-style: italic;
         font-size: 16px !important;
@@ -371,7 +371,7 @@ with gr.Blocks(
         background-clip: text;
         color: transparent !important;
     }
-    
+
     #my_radio .wrap {
         display: flex;
         flex-wrap: nowrap;
